@@ -1,0 +1,23 @@
+{
+  "name": "sample-nem2-sdk-on-fc-on-aliyun",
+  "version": "0.0.1",
+  "description": "sample using nem2-sdk on function compute on aliyun",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "44uk",
+  "private": true,
+  "engines": {
+    "node": ">=8.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/44uk/sample-nem2-sdk-on-fc-on-aliyun"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "nem2-sdk": "^0.10.1",
+    "rxjs": "^6.2.2"
+  }
+}
